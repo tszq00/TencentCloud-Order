@@ -30,7 +30,7 @@
                         "value": "香港"
                     }
                 ],
-                "resourceId": "lhins-9w4aepmp",
+                "resourceId": "lhins-rusp5zlt",
                 "autoRenewFlag": 0,
                 "timeUnit": "d",
                 "timeSpan": 12
